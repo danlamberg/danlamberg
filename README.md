@@ -3,6 +3,8 @@
 
 - 🎓 Formado em Licenciatura Plena em Ciências Biológicas pela Faculdade Integrada Espírita.
 - 📒✏️ Cursando Sistemas de Informação na Universidade Positivo.
+
+  
   <div> 
   <a href="https://www.linkedin.com/in/daniel-de-oliveira-lamberg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
