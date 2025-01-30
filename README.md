@@ -3,6 +3,7 @@
 
 - 🎓 Formado em Licenciatura Plena em Ciências Biológicas pela Faculdade Integrada Espírita.
 - 📒✏️ Cursando Sistemas de Informação na Universidade Positivo.
+- 📒✏️ Cursando Curso Superior de Tecnologia (CST) em Ciência de Dados na Universidade Positivo.
 
   
   <div> 
