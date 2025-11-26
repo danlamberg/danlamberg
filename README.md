@@ -1,7 +1,7 @@
 
 ### Olá! Sou Daniel de Oliveira Lamberg
 
-- 🎓 Formado em Licenciatura Plena em Ciências Biológicas pela Faculdade Integrada Espírita.
+- 🎓 Licenciado em Ciências Biológicas pelas Faculdades Integradas Espírita.
 - 📒✏️ Bacharel em Sistemas de Informação na Universidade Positivo.
 - 📒✏️ Cursando Superior de Tecnologia (CST) em Ciência de Dados na Universidade Positivo.
 
